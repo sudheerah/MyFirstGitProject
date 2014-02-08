@@ -1,0 +1,4 @@
+MyFirstGitProject
+=================
+
+First GIT project
